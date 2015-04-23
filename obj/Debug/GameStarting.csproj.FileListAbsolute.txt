@@ -1,0 +1,6 @@
+d:\visual studio 2013\Projects\GameStarting\GameStarting\bin\Debug\GameStarting.exe.config
+d:\visual studio 2013\Projects\GameStarting\GameStarting\obj\Debug\GameStarting.csprojResolveAssemblyReference.cache
+d:\visual studio 2013\Projects\GameStarting\GameStarting\bin\Debug\GameStarting.exe
+d:\visual studio 2013\Projects\GameStarting\GameStarting\bin\Debug\GameStarting.pdb
+d:\visual studio 2013\Projects\GameStarting\GameStarting\obj\Debug\GameStarting.exe
+d:\visual studio 2013\Projects\GameStarting\GameStarting\obj\Debug\GameStarting.pdb
